@@ -1,0 +1,1 @@
+{"mappings":"AAAAA,MAAQ,GAERC,QAAQC,IAAIF","sources":["src/index.js"],"sourcesContent":["value = 15\n\nconsole.log(value);"],"names":["value","console","log"],"version":3,"file":"index.1b100cb3.js.map"}
